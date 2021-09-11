@@ -1,0 +1,7 @@
+.jogador{
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    text-align: center;
+    align-items: center;
+}

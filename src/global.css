@@ -1,0 +1,11 @@
+img{
+    width: 70px;
+    display:inline-flexbox;
+    align-items:stretch;
+}
+
+body{
+    margin:0%;
+    padding:0%;
+    background-color: rgb(161, 122, 159);
+}
