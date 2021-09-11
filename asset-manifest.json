@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/jo-ken-po/static/css/main.74760357.chunk.css",
+    "main.js": "/jo-ken-po/static/js/main.b83331e5.chunk.js",
+    "main.js.map": "/jo-ken-po/static/js/main.b83331e5.chunk.js.map",
+    "runtime-main.js": "/jo-ken-po/static/js/runtime-main.69ad8922.js",
+    "runtime-main.js.map": "/jo-ken-po/static/js/runtime-main.69ad8922.js.map",
+    "static/js/2.30d5c92b.chunk.js": "/jo-ken-po/static/js/2.30d5c92b.chunk.js",
+    "static/js/2.30d5c92b.chunk.js.map": "/jo-ken-po/static/js/2.30d5c92b.chunk.js.map",
+    "static/js/3.455d04b1.chunk.js": "/jo-ken-po/static/js/3.455d04b1.chunk.js",
+    "static/js/3.455d04b1.chunk.js.map": "/jo-ken-po/static/js/3.455d04b1.chunk.js.map",
+    "index.html": "/jo-ken-po/index.html",
+    "static/css/main.74760357.chunk.css.map": "/jo-ken-po/static/css/main.74760357.chunk.css.map",
+    "static/js/2.30d5c92b.chunk.js.LICENSE.txt": "/jo-ken-po/static/js/2.30d5c92b.chunk.js.LICENSE.txt",
+    "static/media/garota.9e0c9798.png": "/jo-ken-po/static/media/garota.9e0c9798.png",
+    "static/media/papel.ad58c6e8.png": "/jo-ken-po/static/media/papel.ad58c6e8.png",
+    "static/media/pedra.725ae0ce.png": "/jo-ken-po/static/media/pedra.725ae0ce.png",
+    "static/media/robot.f1214bd7.png": "/jo-ken-po/static/media/robot.f1214bd7.png",
+    "static/media/tesoura.63b8ab7c.png": "/jo-ken-po/static/media/tesoura.63b8ab7c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69ad8922.js",
+    "static/js/2.30d5c92b.chunk.js",
+    "static/css/main.74760357.chunk.css",
+    "static/js/main.b83331e5.chunk.js"
+  ]
+}
